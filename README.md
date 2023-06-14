@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shocker444
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning machine learning
+- 👋 Hi, I’m Donald
+- 👀 I’m a Data Scientist
+- 🌱 Skills in machine learning and deep learning
 - 💞️ I’m looking to collaborate on machine learning
 
 
