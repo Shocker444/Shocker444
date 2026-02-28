@@ -9,14 +9,14 @@
 ---
 
 ### 💼 I have worked at
-* **[Ivy](https://www.firstcardiology.org/)**
+* **[First Cardiology Consultant](https://www.firstcardiology.org/)**
 * **[Raven](https://github.com/ocaml-community/raven)**
 
 ---
 
 ### 🚀 I have worked on
 * ☕ **[Shocker](https://github.com/Shocker444/Shocker-Agent)** — Low-latency, real-time voice agent built with FastAPI and Svelte
-* ☕ **[Resume Ranking System](https://github.com/Shocker444/Football_analysis)** — Automated GPT-4 powered candidate evaluation
+* ☕ **[Football Analysis(Computer Vision)](https://github.com/Shocker444/Football_analysis)** — Automated GPT-4 powered candidate evaluation
 * ❄️ **[Age progression/regression](https://github.com/Shocker444/Age_progression-regression)** — Specialized synchronization service for RAG pipelines
 
 ---
